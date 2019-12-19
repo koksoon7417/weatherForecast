@@ -1,0 +1,15 @@
+html, body { 
+    height: 100%; 
+    margin: 0; 
+    padding: 0; 
+}
+
+#map { 
+    height: calc(100vh - 300px); 
+}
+
+.dateColour {
+    color: black; 
+    font-size: 250%;
+    font-family:cursive;
+}
